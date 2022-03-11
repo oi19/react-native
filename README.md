@@ -8,15 +8,15 @@
   ### 2- DetailScreen.js
   
 ## Components:-
-   ### 1-SearchBar.js
-   ### 2-MovieContainer.js
-   ### 3-DataText.js
-   ### 4-Ratings.js
+   #### 1-SearchBar.js
+   #### 2-MovieContainer.js
+   #### 3-DataText.js
+   #### 4-Ratings.js
    
 ## Api:-
-  ### - omdb.js
+  #### - omdb.js
   
   
 ## languages:-
-  ### javaScript 
-  ### JSX
+  #### javaScript 
+  #### JSX
