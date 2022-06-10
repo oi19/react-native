@@ -37,10 +37,14 @@
       - SearchScreen.js
       - DetailScreen.js
   
+ ## Tools   
+  - languages
+    - javaScript 
+    - JSX
     
- ## languages:-
-  #### javaScript 
-  #### JSX
+  - FrameWork
+    - React Native 
+ 
 
 # Setup
    ```shell script
