@@ -23,10 +23,7 @@
    
    - context folder 
       -createDataContext.js (responsible for creating Context & blue print for using Context)
-      - BlogContext.js(handles the blogs data => posting and fetching requests)
-      - AuthContext.js ( handles the athentication process)
-      - LocationContext.js (handles  the location data )
-      - TrackContext.js ( handles the track's creating, posting and fetching processes)
+      - BlogContext.js(handles the blogs data => posting and fetching requests
    
    - hooks
       - costumeHook1.js
