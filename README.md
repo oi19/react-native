@@ -8,7 +8,7 @@
   # Project Structure 
   
   ## App.js 
-   -this file creates the app structure by creating app Container and the Navigation structure as well as the state managment whether context(Providers) or redux 
+   - This file creates the app structure by creating app Container and the Navigation structure as well as the state managment whether context(Providers) or redux 
   
   
   ## src folder 
