@@ -1,4 +1,4 @@
-# Tracker Project:
+# Blog Project:
   
   - This App is a blog-like app where you can write blogs(posts) , edit , delete , show details of them adding the flexiblitiy for future improvements and new features
     
