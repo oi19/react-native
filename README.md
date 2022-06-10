@@ -18,23 +18,23 @@
             
    
    - components folder()
-         1-SearchBar.js
-         2-MovieContainer.js
-         3-DataText.js
-         4-Ratings.js
+      -SearchBar.js
+      -MovieContainer.js
+      -DataText.js
+      -Ratings.js
      
    
    - context folder 
-      -createDataContext.js (responsible for creating Context & blue print for using Context)
-      - BlogContext.js(handles the blogs data => posting and fetching requests
+         -createDataContext.js (responsible for creating Context & blue print for using Context)
+         - BlogContext.js(handles the blogs data => posting and fetching requests
    
    - hooks
       - costumeHook1.js
       
     
    - screens 
-     1- SearchScreen.js
-     2- DetailScreen.js
+      -SearchScreen.js
+      -DetailScreen.js
   
     
  ## languages:-
